@@ -1,4 +1,4 @@
-﻿token=التوكن 
+token=NTk3ODg2Njk5OTAwNjMzMTA5.XSOnbQ.d3EHCkdewu2hMS2G72CUzNlyZLI 
 owner=448829266109530112 
 prefix= !
 game= !Help 
